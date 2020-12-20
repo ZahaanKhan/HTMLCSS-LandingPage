@@ -160,11 +160,11 @@ section {
 /************* Module 3 *************/
 
 .hero {
-    background-image: url("../img/hero.jpg");
+    background-image: url('../img/hero.jpg');
     height: 400px;
     background-size: cover;
     text-transform: uppercase;
-    background-position: center;
+    background-position: center center;
 }
 
 .hero h1 {
@@ -176,9 +176,9 @@ section {
     color: #faa541;
 }
 
-.hero h1,h2 {
+.hero h1, .hero h2 {
     font-size: 63px;
-    font-weight: 700px;
+    font-weight: 700;
     line-height: 0.9;
 }
 
